@@ -1,0 +1,14 @@
+h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24px;
+    color: crimson;
+    margin-left: 1rem;
+}
+
+li{
+    list-style: none;
+    font-family: 'Nunito';
+    background-color: #efefef;
+    /* margin-left: 0px; */
+}
+
