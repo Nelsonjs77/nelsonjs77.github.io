@@ -7,6 +7,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class SkillsAndCompetencesComponent implements OnInit {
 
+
   skillsAndCompetences : Array<any> = [];
 
   constructor() { }
@@ -43,6 +44,7 @@ export class SkillsAndCompetencesComponent implements OnInit {
     this.skillsAndCompetences.push(skill3);
     this.skillsAndCompetences.push(skill4);
     this.skillsAndCompetences.push(skill5);
+
 
 
 
